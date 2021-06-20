@@ -1,0 +1,82 @@
+
+
+#boxImagens{
+	background-color: grey;
+	margin: 0.3rem auto;
+}
+.size{
+	height: 20rem;
+	width: auto;
+}
+
+.paraFloat{
+	margin: 0px auto;
+}
+
+.asideConteudo{
+	box-shadow: 0px 0px 30px grey;
+	margin: 1.8rem 0px;
+	padding: 1.5rem 0rem;
+}
+.labelAside{
+	width: 20%;
+	margin-right: 1.5rem;	
+}
+.campoMensagem{
+	margin:0.3rem 0rem;
+	text-align: left;
+}
+.preco{
+	font-size: 2rem;
+	color: red;
+	font-weight: bolder;
+}
+.pagamento{
+	color: grey;
+	font-size: 0.8rem;
+	margin-top: 0px;
+}
+
+#boxConteudoPrincipal{
+	color: white;
+}
+.detalhesCarro{
+	margin: 1.8rem 0rem;
+	padding: 1rem;
+	color: black;
+	box-shadow: 0rem 0rem 1rem white;
+}
+.avaliacao{
+	margin: 1.8rem 0rem;
+	padding: 1rem;
+	color: black;
+	box-shadow: 0rem 0rem 1rem white;
+}
+.outrosCarros{
+	margin: 1.8rem 0rem;
+	padding: 1rem;
+	color: black;
+	box-shadow: 0rem 0rem 1rem white;
+}
+.itensTabela{
+	border: 1px solid black;
+	margin: 0.3rem;
+}
+.itemTitulo{
+
+}
+.itemDescricao{
+	font-weight: lighter;
+}
+
+
+
+
+
+#carouselCarroParecido{
+	background-color: grey;
+}
+
+.float{
+	float:left;
+}

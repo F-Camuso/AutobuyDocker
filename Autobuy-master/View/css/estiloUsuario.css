@@ -1,0 +1,31 @@
+.contudoUsuario{
+	background-color: black;
+	box-shadow: 0px 0px 1rem black;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+	color: white;
+}
+
+
+.asideBorda{
+	border-right: 1px solid grey;
+}
+
+
+.dados{
+	color: grey;
+}
+
+.boxDados{
+	padding-left: 1rem;
+}
+
+.boxDadosCampo{
+	margin: 1.7rem 0rem;
+}
+
+
+
+

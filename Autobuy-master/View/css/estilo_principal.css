@@ -1,0 +1,58 @@
+.area-principal{
+}
+
+aside{
+	float: left;
+	position: absolute;
+}
+
+.aside{
+	margin-top: 130px;
+}
+
+.busca-rapida{
+	background-color: #DCDCDC;
+	box-shadow: 0px 0px 10px white;
+	padding-bottom: 1px;
+}
+
+.busca-detalhada{
+	background-color: #DCDCDC;
+	box-shadow: 0px 0px 5px grey;
+	padding-bottom: 10px;
+}
+
+
+
+
+.conteudo-principal{
+	position: absolute;
+	float: right;
+	margin-top: 50px;
+	margin-left: 250px;
+}
+
+.anuncio{
+	margin: 8px; 
+	float: left;
+	background-color: white;
+	box-shadow: 0px 0px 17px black;
+}
+
+.info-anuncio{
+
+}
+
+.modelo-anuncio{
+	font-weight: bold;
+}
+
+.preco-anuncio{
+	margin-top: 50px;
+	font-size: 30px;
+}
+
+.foto-anuncio{
+	background-color: white;
+	margin: 3px 0px;
+}

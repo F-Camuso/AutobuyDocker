@@ -1,0 +1,14 @@
+version: "3.7"
+services: 
+  web:
+    build: .
+    volumes:
+      - ./Autobuy-master:/var/www/html/
+    ports:
+      - 80:80
+  sqlite3:
+    image: nouchka/sqlite3:latest
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./Autobuy-master:/root/db/

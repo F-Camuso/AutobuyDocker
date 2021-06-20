@@ -1,0 +1,40 @@
+.boxImagens{
+	margin: 2rem auto;
+	background-color: white;
+	box-shadow: 0rem 0rem 1rem white;
+}
+.paraFloat{
+	position: relative;
+	margin: 1.8rem 0rem;
+}
+
+
+.itemImagem{
+	border: 1px solid grey;
+	width: 18rem;
+	padding: 0.5rem 1rem;
+	margin: 1rem;
+	float: left;
+}
+
+.itemparteImagem{
+	width: 5rem;
+	height: 3rem;
+	border: 1px solid grey;	
+	float: left;
+}
+
+.itemparteAcoes{
+	margin: auto 1rem;
+	margin-top: 10px;
+	float: left;
+}
+
+.botaoImagem{
+	margin: 3px;
+}
+
+.boxCarro{
+	margin: 2rem auto;
+	margin-bottom: 2rem;
+}
