@@ -1,0 +1,7 @@
+>Instalar o docker, caso não tenha
+>Fazer o download do zip do AutobuyDocker
+>Extrair o arquivo baixado
+>Abrir a pasta extraida com o cmd (deve parecer assim >> driver:\algum\caminho\aqui\AutobuyDocker-main)
+>digitar o comando: "docker compose up" sem as aspas
+>abrir algum navegador
+>digitar localhost na url
